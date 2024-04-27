@@ -1,6 +1,6 @@
-# DeivisonDev Portfolio
+# DeivisonDev Portfólio
 
-Este é o repositório do portfólio pessoal de DeivisonDev, construído com React, TypeScript e Styled Components. O projeto visa apresentar algumas das minhas habilidades habilidades.
+Este é o repositório do portfólio pessoal de DeivisonDev, construído com React, TypeScript e Styled Components. O projeto visa apresentar algumas das minhas habilidades.
 
 ## Tecnologias Utilizadas
 
